@@ -1,4 +1,4 @@
-# Run the code
+# How to run the code
 
 ```
 Download the zip file
