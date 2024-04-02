@@ -1,1 +1,6 @@
-# Note_Taking_App
+# Run the code
+
+```
+npm install
+npm start
+```
